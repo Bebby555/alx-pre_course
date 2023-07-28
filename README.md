@@ -1,1 +1,1 @@
-My first readme has chamged
+My first readme has changed
